@@ -14,12 +14,14 @@ package main;
 public class Main {
 
 	public static void main(String[] args) {
-		int lines = 5;
-		for (int i = 0; i < lines; i++) {
+		int i, lines = 5;
+		/*for (int i = 0; i < lines; i++) {
 			for (int j = 0; j < i+1; j++) {
 				System.out.print(j);
 			}
 			System.out.println("");
+			*/
+		while (i = 0; i < lines)
 		}
 	}
 }
