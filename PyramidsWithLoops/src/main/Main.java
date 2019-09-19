@@ -14,14 +14,18 @@ package main;
 public class Main {
 
 	public static void main(String[] args) {
-		int i, lines = 5;
+		int i = 0, j = 0, lines = 5;
+		while (i < lines) {i++;}
+		while (j < i+1) {j++; System.out.print(j); System.out.println(""); }
+		
 		/*for (int i = 0; i < lines; i++) {
 			for (int j = 0; j < i+1; j++) {
 				System.out.print(j);
 			}
 			System.out.println("");
 			*/
-		while (i = 0; i < lines)
+		
+			
 		}
 	}
-}
+
